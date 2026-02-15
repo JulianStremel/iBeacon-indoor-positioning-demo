@@ -15,7 +15,7 @@
     "css-loader": "6.0.0",
     "dotenv": "4.0.0",
     "dotenv-expand": "4.2.0",
-    "eslint": "8.15.0",
+    "eslint": "10.0.0",
     "eslint-config-react-app": "^2.1.0",
     "eslint-loader": "1.9.0",
     "eslint-plugin-flowtype": "2.39.1",
@@ -43,7 +43,7 @@
     "sw-precache-webpack-plugin": "0.11.5",
     "trilat": "^1.0.0",
     "url-loader": "0.6.2",
-    "webpack": "5.0.0",
+    "webpack": "5.98.0",
     "webpack-dev-server": "5.1.0",
     "webpack-manifest-plugin": "3.0.0",
     "whatwg-fetch": "2.0.3"
